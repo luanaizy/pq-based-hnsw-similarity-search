@@ -1,0 +1,16 @@
+# Ignore datasets
+data/
+*.tar.gz
+*.fvecs
+*.ivecs
+
+# Ignore cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+venv/
+.env
+.venv/
